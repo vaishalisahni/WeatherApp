@@ -157,6 +157,11 @@ body {
         height: 40px;
     }
 
+    .search button img {
+        width: 20px;
+        height: auto;
+    }
+
     .weather-icon {
         width: 100px;
         padding: 10px;
