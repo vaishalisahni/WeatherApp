@@ -150,13 +150,14 @@ body {
 
     .search input {
         font-size: 14px;
-        /* height: 40px; */
+        height: 40px;
         width: 70%;
         margin-right: 8px;
     }
 
     .search button {
-        width: 40px;
+
+        width: 30%;
         height: 40px;
     }
 
